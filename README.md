@@ -1,6 +1,8 @@
-# Face-Recognition-JS-Webcam-Faceapi
+# face-recognition-javascript-webcam-faceapi
 
 Face recognition on webcam with Javascript !
+
+[![Watch the video](https://img.youtube.com/vi/yBgXx0FLYKc/0.jpg)](https://www.youtube.com/watch?v=yBgXx0FLYKc)
 
 ## face-api
 
