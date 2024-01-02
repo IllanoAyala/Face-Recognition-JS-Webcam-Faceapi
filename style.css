@@ -6,8 +6,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+    font-family: sans-serif;
 }
 
 canvas {
     position: absolute;
+}
+
+video{
+    transform: rotate3d(20deg);
 }
